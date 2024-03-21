@@ -1,0 +1,6 @@
+Git init 
+git status -s
+Git add .
+Git commit -m "Fichers README i COPYRIGHT"
+git push https://github.com/dazamarcel/examenm5uf2.git master
+
