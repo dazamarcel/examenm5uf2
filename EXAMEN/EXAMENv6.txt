@@ -1,0 +1,6 @@
+git branch inprogress
+git checkout inprogress
+git status
+git add .
+git commit -m "Creacio apartat Author i fitxer Examenv6"
+git push elMeuRepositori inprogress
