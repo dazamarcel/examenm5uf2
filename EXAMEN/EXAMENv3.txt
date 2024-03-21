@@ -1,3 +1,7 @@
 git add .
 git commit -m "Nova Carpeta del Template003"
 git push elMeuPerositori master
+
+git add .
+git commit -m "Modificacio ficher Examenv3"
+git push elMeuRepositori master
