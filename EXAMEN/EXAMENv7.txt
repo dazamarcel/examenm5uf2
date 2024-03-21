@@ -1,0 +1,3 @@
+git add . 
+git commit -m "Apartat Disseny de la pagina web i fitxer Examenv7"
+git push elMeuRepositori inprogress
