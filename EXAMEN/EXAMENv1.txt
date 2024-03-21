@@ -3,4 +3,9 @@ git status -s
 Git add .
 Git commit -m "Fichers README i COPYRIGHT"
 git push https://github.com/dazamarcel/examenm5uf2.git master
+git remote add elMeuRepositori https://github.com/dazamarcel/examenm5uf2.git
+git add .
+Git commit -m "Actualitzacio Ficher Examenv1"
+git push elMeuRepositori master
+git pull elMeuRepositori master
 
