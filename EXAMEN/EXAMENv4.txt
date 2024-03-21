@@ -1,0 +1,3 @@
+git add .
+git commit -m "Modificacio pagina web"
+git push elMeuRepositori master
