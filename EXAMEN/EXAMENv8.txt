@@ -1,0 +1,6 @@
+git checkout master
+git merge inprogress
+git branch -d inprogress
+git add .
+git commit -m "Unir les dues branques i crear fitxer Examenv8"
+git push elMeuRepositori master
